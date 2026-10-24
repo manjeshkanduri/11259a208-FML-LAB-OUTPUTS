@@ -1,0 +1,23 @@
+Original Dataset:
+   StudentID  Hours_Studied  Attendance  Assignments  Marks Result
+0          1              2          75            3     45   Fail
+1          2              3          80            4     52   Pass
+2          3              4          85            5     60   Pass
+3          4              1          65            2     35   Fail
+4          5              5          90            5     75   Pass
+
+Missing Values:
+StudentID        0
+Hours_Studied    0
+Attendance       0
+Assignments      0
+Marks            0
+Result           0
+
+Normalized Dataset:
+   Hours_Studied  Attendance  Assignments     Marks
+0      -0.958215   -0.697680    -0.912871 -0.965884
+1      -0.440261   -0.267013     0.000000 -0.603354
+2       0.077693    0.163653     0.912871 -0.189034
+3      -1.476169   -1.559013    -1.825742 -1.483784
+4       0.595647    0.594320     0.912871  0.587817

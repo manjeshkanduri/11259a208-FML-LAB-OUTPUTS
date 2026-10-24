@@ -1,0 +1,5 @@
+Mean Squared Error: 6.750000000000021
+R2 Score: 0.879866518353726
+
+Predicted Marks:
+[45. 35. 55. 55.]

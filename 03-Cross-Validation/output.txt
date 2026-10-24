@@ -1,0 +1,8 @@
+Training Data Size: 16
+Testing Data Size: 4
+
+Cross Validation Scores:
+[0.75 1.   1.   1.   1.  ]
+
+Average Accuracy:
+0.95
